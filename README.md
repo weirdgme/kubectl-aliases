@@ -39,7 +39,7 @@ See [the full list](.kubectl_aliases).
 
 ### Installation
 
-You can directly download the [`.kubectl_aliases` file](https://rawgit.com/ahmetb/kubectl-alias/master/.kubectl_aliases)
+You can directly download the [`.kubectl_aliases` file](weirdgme/kubectl-alias/master/.kubectl_aliases)
 and save it in your $HOME directory, then edit your .bashrc/.zshrc file with:
 
 ```sh
@@ -101,9 +101,7 @@ command yourself in your .bashrc/.zshrc.
 - **Where can I find PowerShell aliases for kubectl?** There’s a fork of this
   [here](https://github.com/shanoor/kubectl-aliases-powershell).
 
-### Authors
 
-- [@ahmetb](https://twitter.com/ahmetb)
 
 -----
 
